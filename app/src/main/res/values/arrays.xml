@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="animals">
+		<item>Bat,bat</item>
+		<item>Bear,bear</item>
+		<item>Bee,bee</item>
+		<item>Butterfly,butterfly</item>
+		<item>Cat,cat</item>
+		<item>Deer,deer</item>
+		<item>Dolphin,dolphin</item>
+		<item>Eagle,eagle</item>
+		<item>Elephant,elephant</item>
+		<item>Horse,horse</item>
+		<item>Owl,owl</item>
+		<item>Peacock,peacock</item>
+		<item>Pig,pig</item>
+		<item>Rat,rat</item>
+		<item>Snake,snake</item>
+		<item>Squirrel,squirrel</item>
+	</string-array>
+	
+	
+	<string-array name="animalsType">
+		<item>Bat</item>
+		<item>Bear</item>
+		<item>Bee</item>
+		<item>Butterfly</item>
+		<item>Cat</item>
+		<item>Deer</item>
+		<item>Dolphin</item>
+		<item>Eagle</item>
+		<item>Elephant</item>
+		<item>Horse</item>
+		<item>Owl</item>
+		<item>Peacock</item>
+		<item>Pig</item>
+		<item>Rat</item>
+		<item>Snake</item>
+		<item>Squirrel</item>
+	</string-array>
+</resources>
